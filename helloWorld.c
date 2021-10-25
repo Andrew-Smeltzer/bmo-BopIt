@@ -1,6 +1,7 @@
 #include <stdio.h>
 /*Team Members:
 	* Will Scott
+	* Preston Brazzle
 */
 
 int main() 
